@@ -1,7 +1,6 @@
 package com.neotech.service;
 
 import com.neotech.infrastructure.ValidationException;
-import org.springframework.beans.factory.BeanInitializationException;
 import org.springframework.util.StringUtils;
 
 import java.util.HashMap;
