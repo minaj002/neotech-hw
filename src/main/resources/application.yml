@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+val.url: https://en.wikipedia.org/wiki/List_of_country_calling_codes
+
